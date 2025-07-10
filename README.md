@@ -1,7 +1,7 @@
 # PyDailyRun
 
 
-# 🐍 Daily Python Mastery
+# 🐍 Daily Python Mastery with me 
 
 > *"Consistency beats intensity. One Python concept a day keeps confusion away."*
 
