@@ -26,7 +26,7 @@ Each day covers a focused topic with a corresponding Python file, including exam
 |-----|-------------------------------|-------------------------|
 | 01  | Variables & Data Types        | `day01_variables`       |
 | 02  | Math Logic                    | `day02_math_logic`      |
-| 03  | input                         | `day03_nhap_input`      |
+| 03  | Input                         | `day03_nhap_input`      |
 | 04  | Functions                     | `day04_functions`       |
 | 05  | Conditional Logic (`if/else`) | `day05_conditionals`    |
 | 06  | Coming soon                   |                         |
