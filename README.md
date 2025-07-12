@@ -22,13 +22,13 @@ This repository is a living record of my progress — complete with hands-on cod
 
 Each day covers a focused topic with a corresponding Python file, including examples, comments, and sometimes challenges to try on your own.
 
-| Day |           Topic               |         File            |
+| Day |           Topic               |         Folder          |
 |-----|-------------------------------|-------------------------|
-| 01  | Variables & Data Types        | `day01_variables.py`    |
-| 02  | Conditional Logic (`if/else`) | `day02_conditionals.py` |
-| 03  | Loops (`for` and `while`)     | `day03_loops.py`        |
-| 04  | Functions & Parameters        | `day04_functions.py`    |
-| 05  | Lists & Tuples                | `day05_lists_tuples.py` |
+| 01  | Variables & Data Types        | `day01_variables`       |
+| 02  | Math Logic                    | `day02_math_logic`      |
+| 03  | input                         | `day03_nhap_input`      |
+| 04  | Functions                     | `day04_functions`       |
+| 05  | Conditional Logic (`if/else`) | `day05_conditionals`    |
 | ... | Coming soon                   |                         |
 | ... | Coming soon                   |                         |
 | ... | Coming soon                   |                         |
@@ -55,4 +55,5 @@ To run any of the code examples:
 ```bash
 git clone https://github.com/PhamThiKimDanh1802/PyDailyRun.git
 cd PyDailyRun
-python day01_variables.py
+cd day01_variables
+python type_data.py
