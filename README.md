@@ -29,7 +29,7 @@ Each day covers a focused topic with a corresponding Python file, including exam
 | 03  | input                         | `day03_nhap_input`      |
 | 04  | Functions                     | `day04_functions`       |
 | 05  | Conditional Logic (`if/else`) | `day05_conditionals`    |
-| ... | Coming soon                   |                         |
+| 06  | Coming soon                   |                         |
 | ... | Coming soon                   |                         |
 | ... | Coming soon                   |                         |
 | ... | Coming soon                   |                         |
