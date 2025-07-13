@@ -3,5 +3,3 @@
 s = input(" hãy nhập tên :")
 print (type(s))
 print("họ và tên :",s)
-
-# để nhập số nguyên 
