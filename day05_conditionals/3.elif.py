@@ -7,3 +7,7 @@ elif a == b :
     print(a,"bằng",b)
 else :
     print(a,"lớn hơn",b)
+    
+
+# kiểm tra số ngày của tháng 
+t = 3 
