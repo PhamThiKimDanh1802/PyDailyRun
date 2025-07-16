@@ -25,3 +25,4 @@ print(x+y+z)
 
 # gọn 
 b,c,d = map(int ,input("nhâp:").split())
+n=map(int,input("").split())
