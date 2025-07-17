@@ -11,3 +11,5 @@ else :
 
 # kiểm tra số ngày của tháng 
 t = 3 
+if t == 3 :
+    print ("")
