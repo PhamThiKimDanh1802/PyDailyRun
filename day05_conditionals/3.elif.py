@@ -13,3 +13,6 @@ else :
 t = 3 
 if t == 3 :
     print ("")
+t = 3 
+if t == 3 :
+    print ("")
