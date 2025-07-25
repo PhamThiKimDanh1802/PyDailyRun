@@ -12,4 +12,10 @@ else :
 # kiểm tra số ngày của tháng 
 t = 3 
 if t == 3 :
-    print ("")
+    print ("yes")
+elif t == 4 :
+    print ("no")
+elif t == 5 :
+    print ("maybe")
+else :
+    print ("unknown")
